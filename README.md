@@ -1,6 +1,4 @@
-
-                                                                                  
-                                                                                         Z-Health Survey
+                                                                                     Z-Health Survey
 
 
 This idea is for the healthcare industry or we can say it as a business model.
