@@ -28,4 +28,4 @@ Things used by healthcare client if implemented
 
 
                                                                                                                                                                 Idea by Bhushan Mohan Vernekar
-                                                                                                                                                                bhushan.vernekar91@gmail.com
+                                                                                                                                                                bmvernekar@gmail.com
